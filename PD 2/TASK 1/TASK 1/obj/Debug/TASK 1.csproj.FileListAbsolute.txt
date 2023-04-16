@@ -1,0 +1,8 @@
+C:\SEMSTER 2\PD\PD 2\TASK 1\TASK 1\bin\Debug\TASK 1.exe.config
+C:\SEMSTER 2\PD\PD 2\TASK 1\TASK 1\bin\Debug\TASK 1.exe
+C:\SEMSTER 2\PD\PD 2\TASK 1\TASK 1\bin\Debug\TASK 1.pdb
+C:\SEMSTER 2\PD\PD 2\TASK 1\TASK 1\obj\Debug\TASK 1.csproj.AssemblyReference.cache
+C:\SEMSTER 2\PD\PD 2\TASK 1\TASK 1\obj\Debug\TASK 1.csproj.SuggestedBindingRedirects.cache
+C:\SEMSTER 2\PD\PD 2\TASK 1\TASK 1\obj\Debug\TASK 1.csproj.CoreCompileInputs.cache
+C:\SEMSTER 2\PD\PD 2\TASK 1\TASK 1\obj\Debug\TASK 1.exe
+C:\SEMSTER 2\PD\PD 2\TASK 1\TASK 1\obj\Debug\TASK 1.pdb
