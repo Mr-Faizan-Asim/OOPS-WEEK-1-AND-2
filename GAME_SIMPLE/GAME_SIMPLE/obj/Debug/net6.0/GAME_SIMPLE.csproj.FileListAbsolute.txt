@@ -1,0 +1,17 @@
+C:\PD 1\GAME_SIMPLE\GAME_SIMPLE\bin\Debug\net6.0\GAME_SIMPLE.exe
+C:\PD 1\GAME_SIMPLE\GAME_SIMPLE\bin\Debug\net6.0\GAME_SIMPLE.deps.json
+C:\PD 1\GAME_SIMPLE\GAME_SIMPLE\bin\Debug\net6.0\GAME_SIMPLE.runtimeconfig.json
+C:\PD 1\GAME_SIMPLE\GAME_SIMPLE\bin\Debug\net6.0\GAME_SIMPLE.dll
+C:\PD 1\GAME_SIMPLE\GAME_SIMPLE\bin\Debug\net6.0\GAME_SIMPLE.pdb
+C:\PD 1\GAME_SIMPLE\GAME_SIMPLE\obj\Debug\net6.0\GAME_SIMPLE.csproj.AssemblyReference.cache
+C:\PD 1\GAME_SIMPLE\GAME_SIMPLE\obj\Debug\net6.0\GAME_SIMPLE.GeneratedMSBuildEditorConfig.editorconfig
+C:\PD 1\GAME_SIMPLE\GAME_SIMPLE\obj\Debug\net6.0\GAME_SIMPLE.AssemblyInfoInputs.cache
+C:\PD 1\GAME_SIMPLE\GAME_SIMPLE\obj\Debug\net6.0\GAME_SIMPLE.AssemblyInfo.cs
+C:\PD 1\GAME_SIMPLE\GAME_SIMPLE\obj\Debug\net6.0\GAME_SIMPLE.csproj.CoreCompileInputs.cache
+C:\PD 1\GAME_SIMPLE\GAME_SIMPLE\obj\Debug\net6.0\GAME_SIMPLE.dll
+C:\PD 1\GAME_SIMPLE\GAME_SIMPLE\obj\Debug\net6.0\refint\GAME_SIMPLE.dll
+C:\PD 1\GAME_SIMPLE\GAME_SIMPLE\obj\Debug\net6.0\GAME_SIMPLE.pdb
+C:\PD 1\GAME_SIMPLE\GAME_SIMPLE\obj\Debug\net6.0\GAME_SIMPLE.genruntimeconfig.cache
+C:\PD 1\GAME_SIMPLE\GAME_SIMPLE\obj\Debug\net6.0\ref\GAME_SIMPLE.dll
+C:\PD 1\GAME_SIMPLE\GAME_SIMPLE\bin\Debug\net6.0\EZInput.dll
+C:\PD 1\GAME_SIMPLE\GAME_SIMPLE\obj\Debug\net6.0\GAME_SIMPLE.csproj.CopyComplete

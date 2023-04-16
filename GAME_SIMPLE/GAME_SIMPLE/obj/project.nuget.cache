@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hMTPF0wU3wmsCcBv14YO5T24u1uf0gn4Vmh6SwkMZAMt6YTcOJ8AN4x2BZNmkI15ihTIV56aTEzT4BHMGulLOQ==",
+  "success": true,
+  "projectFilePath": "C:\\PD 1\\GAME_SIMPLE\\GAME_SIMPLE\\GAME_SIMPLE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP G5 I5\\.nuget\\packages\\ezinput\\1.3.2\\ezinput.1.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
